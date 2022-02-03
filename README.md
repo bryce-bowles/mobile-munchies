@@ -31,7 +31,7 @@ Determine the amount of each type of lemonade to produce so that the profit is m
 *	No more than 2 gallons of raspberry can be made.
 
 ### 4	Algebraic Formulation
-<img width="299" alt="image" src="https://user-images.githubusercontent.com/65502025/152344351-d99d7771-a8a2-4472-b7f4-5d3b9fa8f22a.png">
+<img width="432" alt="image" src="https://user-images.githubusercontent.com/65502025/152344478-3cdca7b6-99f9-4546-b585-371ab8bf8a76.png">
 
 ### 5	Implementation
 See attached Jupyter Notebook file, MobileMunchiesSolution.ipynb, for the im- plementation and solution of the model using Pyomo and GLPK.
